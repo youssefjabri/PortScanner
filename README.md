@@ -14,7 +14,7 @@ This python script performs a **port scanning operation** to detect open ports o
    py port_scanner.py
    ```
 4. **Provide Input**  
-   - Enter the target IP address (e.g., `192.168.1.1`).
+   - Enter the target IP address (e.g., `111.222.3.4`).
    - Enter the port range in `start-end` format (e.g., `1-1000`).
 
 ---
@@ -23,7 +23,7 @@ This python script performs a **port scanning operation** to detect open ports o
 
 ### input:
 ```
-Enter the target IP: 192.168.1.1
+Enter the target IP: 111.222.3.4
 Enter the port range (e.g., 1-1000): 22-80
 ```
 
